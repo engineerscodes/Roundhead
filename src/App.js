@@ -21,8 +21,8 @@ class App extends Component
     <ScrollToTop/>
  <div className="App">
    <Switch>
-     <Route path='/' component={HomePage} exact/>
-     <Route path='/Team' component={TeamMain} exact />
+     <Route path='/Roundhead' component={HomePage} exact/>
+     <Route path='/Roundhead/Team' component={TeamMain} exact />
     </Switch> 
  </div>
  </Router>
