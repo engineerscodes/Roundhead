@@ -18,11 +18,11 @@ class App extends Component
   render(){
   return (
     <Router>
-      
+       <ScrollToTop/>
     <div className="App">
       <Switch>
         <Route path='/' component={HomePage} exact/>
-        <Route path='/Team' component={TeamMain} exact/>
+        <Route path='/Team' component={TeamMain} />
        </Switch> 
     </div>
     </Router>
