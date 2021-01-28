@@ -18,7 +18,7 @@ class App extends Component
   render(){
   return (
     <Router>
-       <ScrollToTop/>
+      
     <div className="App">
       <Switch>
         <Route path='/' component={HomePage} exact/>
