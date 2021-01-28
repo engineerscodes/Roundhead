@@ -36,7 +36,7 @@ class TeamMain extends Component
            
            <DisplayList>
            <ButtonRouterLink gotoPage={"/"} textdes={"Home"}/>
-           </DisplayList>
+          </DisplayList> 
            </> 
            
     
