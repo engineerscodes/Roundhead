@@ -22,7 +22,7 @@ class App extends Component
  <div className="App">
    <Switch>
      <Route path='/Roundhead' component={HomePage} exact/>
-     <Route path='/Roundhead/Team' component={TeamMain} exact />
+     <Route path='/Team' component={TeamMain} exact />
     </Switch> 
  </div>
  </Router>
