@@ -1,7 +1,6 @@
  import {DisplayList,DisplayH1,Teamgrid} from './TeamMainStyled'
   import Teams from './Teams'
 
-import Navbar from '../NavBar/NavBar'
 import  ButtonRouterLink from '../ReactRouterBtn/ButtonRouterLink'
 
 import React ,{Component} from 'react';
